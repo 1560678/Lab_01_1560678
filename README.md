@@ -1,5 +1,4 @@
 # Lab_01_1560678
-Tạo file README.md cung cấp thông tin cá nhân của sinh viên 
 ## Mã số sinh viên: 1560678   
 ## Họ tên: Nguyễn Hoàng Vinh   
 ## Lớp: 15CK3
